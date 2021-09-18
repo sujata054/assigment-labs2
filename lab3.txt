@@ -1,2 +1,4 @@
 This is lab 3 file.
   This is rough file.
+
+  I have added a line.
